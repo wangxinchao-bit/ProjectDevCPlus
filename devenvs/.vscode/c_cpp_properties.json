@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "/usr/local/cuda/include/**",
+                "/home/wxcwxc/clibs/TensorRT-8.6.1.6/include/**",
+                "/home/wxcwxc/clibs/TensorRT-8.6.1.6/samples/common/**",
+                "/usr/local/include/opencv4/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": ["-Wall", "-Wextra", "-Wno-deprecated-declarations"]
+        }
+    ],
+    "version": 4
+}
