@@ -1,5 +1,13 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
+#include <vector>
+# include<ctime>
+# include<iostream>
+# include<random> 
+# include<fstream>
+
+
+
 
 using namespace cv;
 using namespace std;
